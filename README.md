@@ -3,7 +3,7 @@
 
 
 # Key Features
-**2.Set a Video file as Camera Video output.**  
+**Set a Video file as Camera Video output.**  
 
 
 # Refers  
